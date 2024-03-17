@@ -10,7 +10,7 @@ import (
 	"github.com/dop251/goja"
 	"github.com/goccy/go-yaml"
 
-	"github.com/antonmedv/fx/internal/shlex"
+	"github.com/angkeith/fx/internal/shlex"
 )
 
 var flags = []string{

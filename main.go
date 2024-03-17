@@ -25,8 +25,8 @@ import (
 	"github.com/mattn/go-isatty"
 	"github.com/sahilm/fuzzy"
 
-	"github.com/antonmedv/fx/internal/complete"
-	jsonpath "github.com/antonmedv/fx/path"
+	"github.com/angkeith/fx/internal/complete"
+	jsonpath "github.com/angkeith/fx/path"
 )
 
 var (

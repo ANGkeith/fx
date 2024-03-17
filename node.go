@@ -3,7 +3,7 @@ package main
 import (
 	"strconv"
 
-	jsonpath "github.com/antonmedv/fx/path"
+	jsonpath "github.com/angkeith/fx/path"
 )
 
 type node struct {
