@@ -37,7 +37,7 @@ var keyMap KeyMap
 func init() {
 	keyMap = KeyMap{
 		Quit: key.NewBinding(
-			key.WithKeys("q", "ctrl+c", "esc"),
+			key.WithKeys("ctrl+c"),
 			key.WithHelp("", "exit program"),
 		),
 		PageDown: key.NewBinding(
